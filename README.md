@@ -11,4 +11,4 @@ While the original 3-step model had each GAME OVER branch completely ending the 
 While creating this game, organization within each section was the most difficult and something I rewrote many times. It was a good learning experience tracking all the branches within the story, using breakpoints to link functions to each other, and figuring out how to error-check all possible responses. I also learned how to wrap the text so it would be easier to read. (Although it is still wrapping too early on the first lines of paragraphs - hopefully I can fix that on subsequent revisions!)
 
 To make it easier to view on mobile devices, I adjusted the textwrap width and added textwrap to the remaining sentences, which hadn't been necessary in the desktop version.
-# Text-based-Adventure-Game-Mobile-Version-
+
